@@ -92,3 +92,5 @@ npm i free-ui-tool -g
 ## NPM
 
 - [FREE-UI-TOOL](https://www.npmjs.com/package/free-ui-tool)
+
+## [iview => element ui 组件配置](https://github.com/2heal1/component-config/blob/main/iview-element/index.js)
